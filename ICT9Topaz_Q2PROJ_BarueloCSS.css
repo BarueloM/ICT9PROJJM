@@ -1,0 +1,43 @@
+body {
+        background-image: url(https://4.bp.blogspot.com/-9sny_zkaF7s/Ue_fsdPUEpI/AAAAAAAAGpA/IW8JnxdWQ60/s1600/1st+Waterfall+at+Kawasan.jpg);
+        background-attachment: fixed;
+        font-family: monospace;
+      }
+
+  .header{
+    background-color: seagreen;
+    font-size: 25px;
+  }
+
+  .product{
+    text-align: center;
+    width: 450px;
+    border: 2px solid grey;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 5px;
+    background-color: seagreen;
+    box-shadow: 8px 10px 15px -7px rgba(0,0,0,0.75);
+-webkit-box-shadow: 8px 10px 15px -7px rgba(0,0,0,0.75);
+-moz-box-shadow: 8px 10px 15px -7px rgba(0,0,0,0.75);
+  }
+
+.descriptionspa{
+  background-color: seagreen;
+  font-size: 20px;
+}
+
+  .section{
+    display: flex; 
+    gap: 10px;
+    justify-content: center; 
+    flex-wrap: wrap;
+  }
+
+  .footer{
+    background-color: seagreen;
+  }
+
+  .text{
+    font-size: 25px;
+  }
